@@ -1,0 +1,7 @@
+{
+  "name": "cleanblu Dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
